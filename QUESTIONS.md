@@ -11,16 +11,16 @@ included in your commit, or I won't see it to grade it!*
 
 What... is GitHub, and how is it different from Git?
 
-*Replace this line with your answer*
+GitHub is a web-based platform that does use Git however, it adds features such as cloud storage and collaboration tools.
 
 #### Question 2
 
 What... is your favorite type of snake?
 
-*Replace this line with your answer*
+favorite snake would be a python, they are very cool and also a great coding language! 
 
 #### Question 3
 
 What... is the airspeed velocity of an unladen swallow?
 
-*Replace this line with your answer*
+ Everyone knows it is roughly 24 miles per hour!
